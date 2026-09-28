@@ -1,0 +1,23 @@
+{
+  "issue": "FP32 semantic score differences changed one top-200 candidate at the boundary across BLAS implementations.",
+  "affected_queries": 1,
+  "total_queries": 2452,
+  "changed_items_in_affected_answer": 1,
+  "maximum_observed_semantic_score_difference": 2.98e-07,
+  "catboost_raw_scores_identical_on_common_candidates": true,
+  "excluded_component": "base_pair_d8",
+  "resolution": "Use the previously validated global ensemble of domain logloss (0.75) and base logloss (0.25).",
+  "rejected_answer_sha256": "05f64498406477674312d05e82bf63fef8596b9ec1e540e525dd2e5efb188024",
+  "portable_answer_sha256": "2b8d52769712bb26ffd8b0f75ceceae1a7aec7eac474a0426a3058bafcc45def",
+  "benchmark_labels_used": false,
+  "query_specific_rules_added": false,
+  "rejected_dev_recall50": 0.9333333373069763,
+  "portable_dev_recall50": 0.9331943988800049,
+  "rejected_selection": {
+    "method": "rank",
+    "weights": {
+      "base_pair_d8": 0.25,
+      "logloss": 0.75
+    }
+  }
+}

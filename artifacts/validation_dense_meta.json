@@ -1,0 +1,417 @@
+{
+  "grid": [
+    {
+      "local_weight": 0.5,
+      "dense_weight": 0.5,
+      "history_weight": 0.0,
+      "recall50": 0.7634722223132848,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 0.5,
+      "dense_weight": 0.5,
+      "history_weight": 0.5,
+      "recall50": 0.7772222223132849,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 0.5,
+      "dense_weight": 0.5,
+      "history_weight": 1.0,
+      "recall50": 0.7712500000993411,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 0.5,
+      "dense_weight": 1.0,
+      "history_weight": 0.0,
+      "recall50": 0.7663888889799515,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 0.5,
+      "dense_weight": 1.0,
+      "history_weight": 0.5,
+      "recall50": 0.7776388889799516,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 0.5,
+      "dense_weight": 1.0,
+      "history_weight": 1.0,
+      "recall50": 0.7816666667660077,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 0.5,
+      "dense_weight": 2.0,
+      "history_weight": 0.0,
+      "recall50": 0.729027777860562,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 0.5,
+      "dense_weight": 2.0,
+      "history_weight": 0.5,
+      "recall50": 0.7394444445272287,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 0.5,
+      "dense_weight": 2.0,
+      "history_weight": 1.0,
+      "recall50": 0.7436111111938953,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 1.0,
+      "dense_weight": 0.5,
+      "history_weight": 0.0,
+      "recall50": 0.8173611111938953,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 1.0,
+      "dense_weight": 0.5,
+      "history_weight": 0.5,
+      "recall50": 0.8269444445272287,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 1.0,
+      "dense_weight": 0.5,
+      "history_weight": 1.0,
+      "recall50": 0.8281944445272287,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 1.0,
+      "dense_weight": 1.0,
+      "history_weight": 0.0,
+      "recall50": 0.829027777860562,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 1.0,
+      "dense_weight": 1.0,
+      "history_weight": 0.5,
+      "recall50": 0.834027777860562,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 1.0,
+      "dense_weight": 1.0,
+      "history_weight": 1.0,
+      "recall50": 0.8356944445272286,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 1.0,
+      "dense_weight": 2.0,
+      "history_weight": 0.0,
+      "recall50": 0.8136111111938953,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 1.0,
+      "dense_weight": 2.0,
+      "history_weight": 0.5,
+      "recall50": 0.817777777860562,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 1.0,
+      "dense_weight": 2.0,
+      "history_weight": 1.0,
+      "recall50": 0.8219444445272287,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 2.0,
+      "dense_weight": 0.5,
+      "history_weight": 0.0,
+      "recall50": 0.8230555556217829,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 2.0,
+      "dense_weight": 0.5,
+      "history_weight": 0.5,
+      "recall50": 0.8322222222884496,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 2.0,
+      "dense_weight": 0.5,
+      "history_weight": 1.0,
+      "recall50": 0.8330555556217829,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 2.0,
+      "dense_weight": 1.0,
+      "history_weight": 0.0,
+      "recall50": 0.8281944445023934,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 2.0,
+      "dense_weight": 1.0,
+      "history_weight": 0.5,
+      "recall50": 0.83486111116906,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 2.0,
+      "dense_weight": 1.0,
+      "history_weight": 1.0,
+      "recall50": 0.8340277778357268,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 2.0,
+      "dense_weight": 2.0,
+      "history_weight": 0.0,
+      "recall50": 0.8148611111690601,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 2.0,
+      "dense_weight": 2.0,
+      "history_weight": 0.5,
+      "recall50": 0.8190277778357268,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 2.0,
+      "dense_weight": 2.0,
+      "history_weight": 1.0,
+      "recall50": 0.8219444445023935,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 4.0,
+      "dense_weight": 0.5,
+      "history_weight": 0.0,
+      "recall50": 0.8054166667411725,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 4.0,
+      "dense_weight": 0.5,
+      "history_weight": 0.5,
+      "recall50": 0.8145833334078392,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 4.0,
+      "dense_weight": 0.5,
+      "history_weight": 1.0,
+      "recall50": 0.8170833334078391,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 4.0,
+      "dense_weight": 1.0,
+      "history_weight": 0.0,
+      "recall50": 0.8125000000745058,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 4.0,
+      "dense_weight": 1.0,
+      "history_weight": 0.5,
+      "recall50": 0.8162500000745058,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 4.0,
+      "dense_weight": 1.0,
+      "history_weight": 1.0,
+      "recall50": 0.8154166667411725,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 4.0,
+      "dense_weight": 2.0,
+      "history_weight": 0.0,
+      "recall50": 0.8016666667411725,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 4.0,
+      "dense_weight": 2.0,
+      "history_weight": 0.5,
+      "recall50": 0.8066666667411725,
+      "candidate_recall": 0.9595833333581686
+    },
+    {
+      "local_weight": 4.0,
+      "dense_weight": 2.0,
+      "history_weight": 1.0,
+      "recall50": 0.8070833334078391,
+      "candidate_recall": 0.9595833333581686
+    }
+  ],
+  "selected": {
+    "dense": true,
+    "metadata": true,
+    "feature_names": [
+      "bm25",
+      "bm25_relative",
+      "char",
+      "char_relative",
+      "history",
+      "history_relative",
+      "dense",
+      "dense_relative",
+      "dense_text",
+      "dense_text_relative",
+      "rrf_bm25_global",
+      "rrf_bm25_local",
+      "rrf_char_global",
+      "rrf_char_local",
+      "rrf_history_global",
+      "rrf_history_local",
+      "rrf_dense_global",
+      "rrf_dense_local",
+      "rrf_dense_text_global",
+      "rrf_dense_text_local",
+      "same_location",
+      "same_category",
+      "query_category_missing",
+      "delivery",
+      "query_words",
+      "filter_words",
+      "title_query_coverage",
+      "title_jaccard",
+      "title_phrase",
+      "filter_coverage",
+      "query_params_coverage",
+      "log_popularity",
+      "log_item_price",
+      "log_item_rating_reviews_count",
+      "item_rating",
+      "item_is_phone_hidden",
+      "item_is_message_forbidden",
+      "item_microcat_id",
+      "log_distance",
+      "microcat_log_prob",
+      "microcat_log_lift",
+      "microcat_inverse_rank",
+      "microcat_entropy"
+    ],
+    "baseline": {
+      "local_weight": 1.0,
+      "dense_weight": 1.0,
+      "history_weight": 1.0
+    },
+    "use_ranker": true,
+    "dev_recall50": 0.8987500000496705,
+    "candidate_recall": 0.9595833333581686,
+    "ranker_results": [
+      {
+        "trees": 25,
+        "blend_weight": 0.25,
+        "recall50": 0.8726388889551163
+      },
+      {
+        "trees": 25,
+        "blend_weight": 0.5,
+        "recall50": 0.8987500000496705
+      },
+      {
+        "trees": 25,
+        "blend_weight": 0.75,
+        "recall50": 0.8762500000496706
+      },
+      {
+        "trees": 25,
+        "blend_weight": 1.0,
+        "recall50": 0.8516666667163372
+      },
+      {
+        "trees": 50,
+        "blend_weight": 0.25,
+        "recall50": 0.8693055556217829
+      },
+      {
+        "trees": 50,
+        "blend_weight": 0.5,
+        "recall50": 0.8959722222636143
+      },
+      {
+        "trees": 50,
+        "blend_weight": 0.75,
+        "recall50": 0.8654166667163372
+      },
+      {
+        "trees": 50,
+        "blend_weight": 1.0,
+        "recall50": 0.8362500000496705
+      },
+      {
+        "trees": 75,
+        "blend_weight": 0.25,
+        "recall50": 0.8709722222884496
+      },
+      {
+        "trees": 75,
+        "blend_weight": 0.5,
+        "recall50": 0.8954166667163372
+      },
+      {
+        "trees": 75,
+        "blend_weight": 0.75,
+        "recall50": 0.8633333333830039
+      },
+      {
+        "trees": 75,
+        "blend_weight": 1.0,
+        "recall50": 0.8291666667163372
+      },
+      {
+        "trees": 100,
+        "blend_weight": 0.25,
+        "recall50": 0.8709722222884496
+      },
+      {
+        "trees": 100,
+        "blend_weight": 0.5,
+        "recall50": 0.8941666667163372
+      },
+      {
+        "trees": 100,
+        "blend_weight": 0.75,
+        "recall50": 0.8625000000496705
+      },
+      {
+        "trees": 100,
+        "blend_weight": 1.0,
+        "recall50": 0.8225000000496705
+      },
+      {
+        "trees": 108,
+        "blend_weight": 0.25,
+        "recall50": 0.8701388889551163
+      },
+      {
+        "trees": 108,
+        "blend_weight": 0.5,
+        "recall50": 0.8945833333830039
+      },
+      {
+        "trees": 108,
+        "blend_weight": 0.75,
+        "recall50": 0.8637500000496705
+      },
+      {
+        "trees": 108,
+        "blend_weight": 1.0,
+        "recall50": 0.8175000000496705
+      }
+    ],
+    "trees": 25,
+    "blend_weight": 0.5
+  }
+}

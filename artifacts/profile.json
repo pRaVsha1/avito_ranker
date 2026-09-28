@@ -1,0 +1,70 @@
+{
+  "train_rows": 497673,
+  "benchmark_items": 189212,
+  "benchmark_queries": 2452,
+  "unique_train_queries": 74529,
+  "unique_train_items": 344825,
+  "interaction_item_overlap": 0.06632869374066908,
+  "benchmark_query_overlap": 0.3735725938009788,
+  "train_nulls": {
+    "search_query": 0,
+    "search_location_id": 0,
+    "search_is_delivery_search": 0,
+    "search_infm_params_text": 0,
+    "search_category": 0,
+    "item_title_raw": 0,
+    "item_rating_reviews_count": 19211,
+    "item_rating": 28232,
+    "item_price": 0,
+    "item_microcat_id": 0,
+    "item_longitude": 4,
+    "item_location_id": 0,
+    "item_latitude": 4,
+    "item_is_phone_hidden": 0,
+    "item_is_message_forbidden": 0,
+    "item_infm_params_text": 0,
+    "item_id": 0,
+    "item_description_raw": 0,
+    "item_category_id": 0,
+    "normalized_query": 0,
+    "split": 0
+  },
+  "corpus_rows": 199316,
+  "sample_sizes": {
+    "train": 8000,
+    "dev": 1200,
+    "test": 1200
+  },
+  "split_query_counts": {
+    "train": 59098,
+    "dev": 7387,
+    "test": 7388
+  },
+  "history_rows": 323619,
+  "location_match_train": 0.8310195650557696,
+  "category_counts": {
+    "114": 187336,
+    "19": 357,
+    "112": 141,
+    "40": 122,
+    "33": 103,
+    "10": 98,
+    "20": 84,
+    "25": 82,
+    "36": 74,
+    "111": 74
+  },
+  "microcategory_counts": {
+    "86456": 6355,
+    "2301563": 4272,
+    "86467": 4064,
+    "86470": 3858,
+    "1289835": 3696,
+    "4141": 3417,
+    "2303435": 3267,
+    "86458": 3112,
+    "2097890": 2927,
+    "86469": 2895
+  },
+  "evaluation_note": "One random search context per normalized query, then uniform query sampling. Observed positives; corpus is benchmark plus sampled train/dev/test positives. Query groups are disjoint."
+}

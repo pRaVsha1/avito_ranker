@@ -1,0 +1,6 @@
+{
+  "split": "test",
+  "recall50": 0.8679861111193895,
+  "candidate_recall": 0.956875,
+  "queries": 1200
+}

@@ -1,0 +1,27 @@
+.venv/
+__pycache__/
+data/
+artifacts/*
+!artifacts/*.json
+!artifacts/dev_errors.csv
+!artifacts/dev_per_query_v2.csv
+!artifacts/validation_comparison.png
+artifacts/iteration2_timeline.json
+logs/
+*.zip
+*.part
+.downloads/
+dist/
+releases/
+previews/
+.DS_Store
+answer_*.csv
+MANIFEST.json
+SHA256SUMS.txt
+requirements-*-lock.txt
+# Локальные генераторы и ранние служебные этапы.
+build_notebook.py
+write_readme_v2.py
+finalize_solution.py
+package_solution.py
+run_domain_experiment.py

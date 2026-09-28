@@ -1,0 +1,19 @@
+{
+  "offline": true,
+  "cpu_only": true,
+  "answer_sha256": "2b8d52769712bb26ffd8b0f75ceceae1a7aec7eac474a0426a3058bafcc45def",
+  "server_reproduction": "passed",
+  "local_reproduction": "passed",
+  "local_system": "macOS-26.6.2-x86_64-i386-64bit",
+  "python": "3.12.6",
+  "executed_notebook_code_cells": 10,
+  "notebook_execution": "All cells completed top-to-bottom without errors.",
+  "local_cpu_prediction_seconds": 309.6,
+  "unit_tests_passed": 9,
+  "chart_visual_review": "passed",
+  "full_notebook_visual_review": "blocked: browser access declined",
+  "manual_visual_review": "Open solution.ipynb in Jupyter or previews/solution.html in a browser.",
+  "reproducibility_resolution": "Globally excluded base_pair_d8 from the final ensemble after a one-query FP32 boundary mismatch. See reproducibility_issue.json.",
+  "publication_notebook_execution": "All 10 code cells executed top-to-bottom without errors; final platform score 0.882277 displayed.",
+  "publication_python_formatting": "Python AST unchanged in all 19 formatted modules."
+}

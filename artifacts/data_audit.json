@@ -1,0 +1,131 @@
+{
+  "train": {
+    "rows": 497673,
+    "columns": [
+      "search_query",
+      "search_location_id",
+      "search_is_delivery_search",
+      "search_infm_params_text",
+      "search_category",
+      "item_title_raw",
+      "item_rating_reviews_count",
+      "item_rating",
+      "item_price",
+      "item_microcat_id",
+      "item_longitude",
+      "item_location_id",
+      "item_latitude",
+      "item_is_phone_hidden",
+      "item_is_message_forbidden",
+      "item_infm_params_text",
+      "item_id",
+      "item_description_raw",
+      "item_category_id"
+    ],
+    "schema": "search_query: string\nsearch_location_id: int64\nsearch_is_delivery_search: int32\nsearch_infm_params_text: string\nsearch_category: int64\nitem_title_raw: string\nitem_rating_reviews_count: double\nitem_rating: double\nitem_price: decimal128(27, 15)\nitem_microcat_id: int64\nitem_longitude: decimal128(18, 15)\nitem_location_id: int64\nitem_latitude: decimal128(17, 15)\nitem_is_phone_hidden: bool\nitem_is_message_forbidden: bool\nitem_infm_params_text: string\nitem_id: string\nitem_description_raw: string\nitem_category_id: int64\n-- schema metadata --\npandas: '{\"index_columns\": [], \"column_indexes\": [], \"columns\": [{\"name\":' + 2669",
+    "sha256": "e150ab7a5c98769f643b95ee3a02dc0f664b647facd69a7d280ec6d48ca554a7",
+    "missing": {
+      "search_query": 0,
+      "search_location_id": 0,
+      "search_is_delivery_search": 0,
+      "search_infm_params_text": 0,
+      "search_category": 0,
+      "item_title_raw": 0,
+      "item_rating_reviews_count": 19211,
+      "item_rating": 28232,
+      "item_price": 0,
+      "item_microcat_id": 0,
+      "item_longitude": 4,
+      "item_location_id": 0,
+      "item_latitude": 4,
+      "item_is_phone_hidden": 0,
+      "item_is_message_forbidden": 0,
+      "item_infm_params_text": 0,
+      "item_id": 0,
+      "item_description_raw": 0,
+      "item_category_id": 0
+    },
+    "duplicate_rows": 30619,
+    "empty_texts": {
+      "search_query": 0,
+      "search_infm_params_text": 163999,
+      "item_title_raw": 0,
+      "item_infm_params_text": 0,
+      "item_description_raw": 0
+    }
+  },
+  "benchmark_queries": {
+    "rows": 2452,
+    "columns": [
+      "query_id",
+      "search_query",
+      "search_location_id",
+      "search_is_delivery_search",
+      "search_infm_params_text",
+      "search_category"
+    ],
+    "schema": "query_id: large_string\nsearch_query: large_string\nsearch_location_id: int64\nsearch_is_delivery_search: int32\nsearch_infm_params_text: large_string\nsearch_category: int64\n-- schema metadata --\npandas: '{\"index_columns\": [], \"column_indexes\": [], \"columns\": [{\"name\":' + 874",
+    "sha256": "e49de4fb76f03979a4af96034817767d39ae5de9f94e254fed028243188dda06",
+    "missing": {
+      "query_id": 0,
+      "search_query": 0,
+      "search_location_id": 0,
+      "search_is_delivery_search": 0,
+      "search_infm_params_text": 0,
+      "search_category": 0
+    },
+    "duplicate_rows": 0,
+    "empty_texts": {
+      "search_query": 0,
+      "search_infm_params_text": 1546
+    }
+  },
+  "benchmark_items": {
+    "rows": 189212,
+    "columns": [
+      "item_title_raw",
+      "item_rating_reviews_count",
+      "item_rating",
+      "item_price",
+      "item_microcat_id",
+      "item_longitude",
+      "item_location_id",
+      "item_latitude",
+      "item_is_phone_hidden",
+      "item_is_message_forbidden",
+      "item_infm_params_text",
+      "item_id",
+      "item_description_raw",
+      "item_category_id"
+    ],
+    "schema": "item_title_raw: string\nitem_rating_reviews_count: double\nitem_rating: double\nitem_price: decimal128(27, 15)\nitem_microcat_id: int64\nitem_longitude: decimal128(18, 15)\nitem_location_id: int64\nitem_latitude: decimal128(17, 15)\nitem_is_phone_hidden: bool\nitem_is_message_forbidden: bool\nitem_infm_params_text: string\nitem_id: string\nitem_description_raw: string\nitem_category_id: int64\n-- schema metadata --\npandas: '{\"index_columns\": [], \"column_indexes\": [], \"columns\": [{\"name\":' + 1992",
+    "sha256": "193b3a3961464620cbf8d8797152b7f90cae1826ca749fb7817a210984a09899",
+    "missing": {
+      "item_title_raw": 0,
+      "item_rating_reviews_count": 11615,
+      "item_rating": 17631,
+      "item_price": 0,
+      "item_microcat_id": 0,
+      "item_longitude": 1,
+      "item_location_id": 0,
+      "item_latitude": 1,
+      "item_is_phone_hidden": 0,
+      "item_is_message_forbidden": 0,
+      "item_infm_params_text": 0,
+      "item_id": 0,
+      "item_description_raw": 35,
+      "item_category_id": 0
+    },
+    "duplicate_rows": 0,
+    "empty_texts": {
+      "item_title_raw": 0,
+      "item_infm_params_text": 0,
+      "item_description_raw": 35
+    }
+  },
+  "overlap": {
+    "unique_train_item_ids_in_benchmark": 18142,
+    "benchmark_normalized_texts_in_train": 916,
+    "duplicate_positive_pairs": 30619
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "limit": 7,
+  "submitted_by_agent": 0,
+  "prior_attempts": null,
+  "attempts": [
+    {
+      "file": "answer_baseline.csv",
+      "sha256": "36cb255961198ca508f00112f1ba7d7a9b7baf09de20b4cf0066c37ff0d34717",
+      "submitted_by": "user",
+      "recall50": 0.756185,
+      "remaining_attempts": null
+    },
+    {
+      "file": "answer_lexical_ranker.csv",
+      "sha256": "7198c3e43c694d9d0e97950dcd5f579bc653bf9ad4177253983d9f4f933fa587",
+      "submitted_by": "user",
+      "recall50": 0.791763,
+      "remaining_attempts": null
+    },
+    {
+      "file": "answer_hybrid.csv",
+      "sha256": "6eca55ba5884918ea8a68405ffc6010973f83eb48bb8ab7933492967df95c1fb",
+      "submitted_by": "user",
+      "recall50": 0.833643,
+      "remaining_attempts": null
+    },
+    {
+      "file": "answer_e5_base.csv",
+      "sha256": "b04a2acd42e07142795c0990ccb20ac09a7e2461c9dbb8540f11d6d7892c61cf",
+      "submitted_by": "user",
+      "recall50": 0.87574,
+      "remaining_attempts": null
+    },
+    {
+      "file": "answer.csv",
+      "sha256": "2b8d52769712bb26ffd8b0f75ceceae1a7aec7eac474a0426a3058bafcc45def",
+      "submitted_by": "user",
+      "recall50": 0.882277,
+      "remaining_attempts": null
+    }
+  ],
+  "note": "Five result reports confirmed by the user. No agent submissions. The remaining platform counter is not independently verified."
+}
