@@ -7,28 +7,136 @@
   },
   "parts": [
     {
-      "name": "avito-artifacts-v1.0.0.zip.part01",
-      "bytes": 1610612736,
-      "sha256": "d577ef74a762a7c084f14c307658ad577ede9a04618313c038513688293b6f6e",
-      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.part01"
+      "name": "avito-artifacts-v1.0.0.zip.chunk01",
+      "bytes": 268435456,
+      "sha256": "163cc8a886bd4cd13e6b836649af4adbf34fa475c886b59393d8ee3d4cd11be7",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk01"
     },
     {
-      "name": "avito-artifacts-v1.0.0.zip.part02",
-      "bytes": 1610612736,
-      "sha256": "de24d6358f4e1f1dc37f5b7b2763d3d5cc7994879cfa3f4fbdce1b4da4a1068a",
-      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.part02"
+      "name": "avito-artifacts-v1.0.0.zip.chunk02",
+      "bytes": 268435456,
+      "sha256": "0cd629eb80684dd591f0fd321792591e5d2edc442b767b205a148017683e5c5f",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk02"
     },
     {
-      "name": "avito-artifacts-v1.0.0.zip.part03",
-      "bytes": 1610612736,
-      "sha256": "cef17eb84bf0a5ae369f46682c0a526e94a582e2abcad6a811bedca8e3fd20ea",
-      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.part03"
+      "name": "avito-artifacts-v1.0.0.zip.chunk03",
+      "bytes": 268435456,
+      "sha256": "b8dbbdf9b831b980999b940bfe2a95fd75a14be29d684aec590109912c0c5c12",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk03"
     },
     {
-      "name": "avito-artifacts-v1.0.0.zip.part04",
-      "bytes": 817535032,
-      "sha256": "8d953e6ff71db88c81b256f485d4b3d7832d9a20971e52fd04d8b4e01b010996",
-      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.part04"
+      "name": "avito-artifacts-v1.0.0.zip.chunk04",
+      "bytes": 268435456,
+      "sha256": "abd56d673824370cc202fc2105a5e04ba989a48a4a5b259c0b6339073dfcac29",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk04"
+    },
+    {
+      "name": "avito-artifacts-v1.0.0.zip.chunk05",
+      "bytes": 268435456,
+      "sha256": "3c9ea3e481fff9c64cb49731decb0eb587b5d48fb203dcd093460ed936e5ca37",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk05"
+    },
+    {
+      "name": "avito-artifacts-v1.0.0.zip.chunk06",
+      "bytes": 268435456,
+      "sha256": "99f66416b1d95eb46982b45874978a02d9001a0f356eb2460071e408b0e2d144",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk06"
+    },
+    {
+      "name": "avito-artifacts-v1.0.0.zip.chunk07",
+      "bytes": 268435456,
+      "sha256": "54a3f6ddcde3dcc37ee66a64cc11f3d2cb7b6888daa6e688ea22252cb30f11bc",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk07"
+    },
+    {
+      "name": "avito-artifacts-v1.0.0.zip.chunk08",
+      "bytes": 268435456,
+      "sha256": "1898c56ad2a7c08e00cd42c69ab7889480ccf07213945411e793919e5f5969c2",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk08"
+    },
+    {
+      "name": "avito-artifacts-v1.0.0.zip.chunk09",
+      "bytes": 268435456,
+      "sha256": "a74a4faf2f2af0e2a6ea4de10498dc5576675bc4d017b39867cb7f5ca5e2c7f3",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk09"
+    },
+    {
+      "name": "avito-artifacts-v1.0.0.zip.chunk10",
+      "bytes": 268435456,
+      "sha256": "cb2cbbabc43e368f62cf57aa99282e83e00644fdc190e33e3f0e69b7737663a1",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk10"
+    },
+    {
+      "name": "avito-artifacts-v1.0.0.zip.chunk11",
+      "bytes": 268435456,
+      "sha256": "8ea70d383db90951e24333e1be472653642ca8b8897b5fce89498eb6eebedad3",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk11"
+    },
+    {
+      "name": "avito-artifacts-v1.0.0.zip.chunk12",
+      "bytes": 268435456,
+      "sha256": "e7e353033a9a4d9f7d1fa83d455d2aec4a3b65255192d49956e847c8de6000a6",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk12"
+    },
+    {
+      "name": "avito-artifacts-v1.0.0.zip.chunk13",
+      "bytes": 268435456,
+      "sha256": "0c4302fd8f0d6fcbbfa31d4881cd9d0d67bf3479cecec0dc8c49bd8dffc271fa",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk13"
+    },
+    {
+      "name": "avito-artifacts-v1.0.0.zip.chunk14",
+      "bytes": 268435456,
+      "sha256": "643e601391d71cd518dc00b0b06628d8f863c4e649694c5f20f029c745d0220f",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk14"
+    },
+    {
+      "name": "avito-artifacts-v1.0.0.zip.chunk15",
+      "bytes": 268435456,
+      "sha256": "343f574fb9bced165117123766dfb257758e9936d664b27789971467a17cd421",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk15"
+    },
+    {
+      "name": "avito-artifacts-v1.0.0.zip.chunk16",
+      "bytes": 268435456,
+      "sha256": "6ded5efe41cabe37e1c13f3ddb072c6ffac541ad5f3c4d70260dbfcb6196347d",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk16"
+    },
+    {
+      "name": "avito-artifacts-v1.0.0.zip.chunk17",
+      "bytes": 268435456,
+      "sha256": "dd6f1c5101f71246a7e883662155d8afeec5718096b0aac4d5f533f3ae18fcc5",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk17"
+    },
+    {
+      "name": "avito-artifacts-v1.0.0.zip.chunk18",
+      "bytes": 268435456,
+      "sha256": "0ffdc70d1751ea57563889640f3d77a862c40cc4c699583377dbf59de69c88c7",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk18"
+    },
+    {
+      "name": "avito-artifacts-v1.0.0.zip.chunk19",
+      "bytes": 268435456,
+      "sha256": "fc99049c24342cb64b7e67157d58c88897cbfd7ee78dc9ae67cf9ed419df0498",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk19"
+    },
+    {
+      "name": "avito-artifacts-v1.0.0.zip.chunk20",
+      "bytes": 268435456,
+      "sha256": "63d2657a451004d060650a91726cbb8b2dc92275dd4fed7f47865dc52a3a3b1f",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk20"
+    },
+    {
+      "name": "avito-artifacts-v1.0.0.zip.chunk21",
+      "bytes": 268435456,
+      "sha256": "7fbe5fb2a9ce086cd13713460c9beb979116bfd32cfbb333175e3dec333f7d4d",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk21"
+    },
+    {
+      "name": "avito-artifacts-v1.0.0.zip.chunk22",
+      "bytes": 12228664,
+      "sha256": "c040718823ee9384edc4f8d19e612d68bf3a6dfc89cbab3eca2e4ed603ce1941",
+      "url": "https://github.com/pRaVsha1/avito_ranker/releases/download/v1.0.0/avito-artifacts-v1.0.0.zip.chunk22"
     }
   ],
   "files": {

@@ -1,7 +1,7 @@
 """Собрать переносимые данные и артефакты для GitHub Release.
 
 Код и notebook хранятся в Git. Этот архив содержит только данные/артефакты,
-без временных кэшей кандидатов. Части по 1.5 ГиБ укладываются в лимит GitHub.
+без временных кэшей кандидатов. Части по 256 МиБ укладываются в лимит GitHub.
 """
 
 import hashlib
@@ -11,7 +11,7 @@ import zipfile
 
 ROOT = Path(__file__).resolve().parent
 VERSION = 'v1.0.0'
-PART_BYTES = 1536 * 1024 * 1024
+PART_BYTES = 256 * 1024 * 1024
 
 
 def sha256(path):
@@ -75,7 +75,7 @@ def main():
             first = incoming.read(8 * 1024 * 1024)
             if not first:
                 break
-            part = destination / f'{archive_path.name}.part{number:02d}'
+            part = destination / f'{archive_path.name}.chunk{number:02d}'
             with part.open('wb') as outgoing:
                 outgoing.write(first)
                 remaining = PART_BYTES - len(first)
